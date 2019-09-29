@@ -19,15 +19,12 @@
                 { label: 'JSFiddle', url: 'https://twitter.com/niklaswebdev', target: '_top' },
                 { label: 'Stack OverFlow', url: 'http://nkunited.deviantart.com/', target: '_top' },
                 { label: 'Angular JS', url: 'http://gulpjs.com/', target: '_top' },
-
                 { label: 'GitHub', url: 'https://github.com/', target: '_top' },
                 { label: 'DroidSans', url: 'https://www.shadertoy.com/', target: '_top' },
-
                 { label: 'Medium.com', url: 'http://gamua.com/starling/', target: '_top' },
                 { label: 'Test Flight', url: 'http://jsperf.com/', target: '_top' },
                 { label: 'Generate qrCode', url: 'http://foundation.zurb.com/', target: '_top' },
                 { label: 'Chrome debug', url: 'http://createjs.com/', target: '_top' },
-
                 { label: 'Geolocation', url: 'http://julian.com/research/velocity/', target: '_top' },
                 { label: 'Calendar', url: 'https://greensock.com/docs/#/HTML5/GSAP/TweenLite/', target: '_top' },
                 { label: 'Chart', url: 'https://jquery.com/', target: '_top' },
