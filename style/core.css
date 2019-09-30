@@ -70,3 +70,36 @@ canvas {
   padding:0;
   margin:0;
 }
+
+#menu-top{
+  z-index: 99;
+  height: 80px;
+  top: 0;
+  width: 100%;
+  display: flex;
+  line-height: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  position: fixed;
+  font-size: 28px;
+  cursor: pointer;
+}
+#menu-top .menu-intro:hover,
+#menu-top .menu-skills:hover,
+#menu-top .menu-edu:hover{
+  text-decoration: underline;
+}
+
+.menu-item{
+  flex: 1;
+}
+
+#holder{
+  display: table;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.theme-dark #menu-top{
+  color:white;
+}
