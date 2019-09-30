@@ -38,12 +38,12 @@
                 { label: 'GitHub', url: '', target: '_top' , tooltip: 'Version control' },
                 { label: 'Firebase', url: '', target: '_top' , tooltip: 'Push Notification' },
 
-                { label: 'Generate qrCode', url: '', target: '_top' , tooltip: 'library' },
-                { label: 'd3js', url: '', target: '_top' , tooltip: 'library' },
-                { label: 'Geolocation', url: '', target: '_top' , tooltip: 'library' },
-                { label: 'Calendar', url: '', target: '_top' , tooltip: 'library' },
-                { label: 'Chart', url: '', target: '_top' , tooltip: 'library' },
-                { label: 'Organization Chart', url: '', target: '_top' , tooltip: 'library' },
+                { label: 'Generate qrCode', url: '', target: '_top' , tooltip: 'Library' },
+                { label: 'd3js', url: '', target: '_top' , tooltip: 'Library' },
+                { label: 'Geolocation', url: '', target: '_top' , tooltip: 'Library' },
+                { label: 'Calendar', url: '', target: '_top' , tooltip: 'Library' },
+                { label: 'Chart', url: '', target: '_top' , tooltip: 'Library' },
+                { label: 'Organization Chart', url: '', target: '_top' , tooltip: 'Library' },
 
                 { label: 'Stored procedure', url: '', target: '_top', tooltip: '' }
             ];
